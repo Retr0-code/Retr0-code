@@ -2,6 +2,7 @@
 
 I am a cyber security student and this profile is my portfolio. I hope you can find something interesting here, you better to check out these repositories.
 
+- [![Binary_Analysis_Tool](https://img.shields.io/static/v1?label=Repo&message=Binary_Analysis_Tool&color=FF4A40)](https://github.com/Retr0-code/BinaryAnalysisTool)
 - [![Phoenix backdoor](https://img.shields.io/static/v1?label=Repo&message=Phoenix&color=ff0057)](https://github.com/Retr0-code/Phoenix)
 - [![Console GUI Lib](https://img.shields.io/static/v1?label=Repo&message=Console_GUI_Lib&color=7163e0)](https://github.com/Retr0-code/Console-Graphics)
 - [![CVE-2017-11881](https://img.shields.io/static/v1?label=Repo&message=SignHere&color=607CF7)](https://github.com/Retr0-code/SignHere)
