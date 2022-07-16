@@ -2,9 +2,9 @@
 
 I am a cyber security student and this profile is my portfolio. I hope you can find something interesting here, you better to check out these repositories.
 
-- [![Simple Kernel](https://img.shields.io/static/v1?label=Repo&message=Binary_Analysis_Tool&color=FF4A40)](https://github.com/Retr0-code/Simple-Kernel)
+- [![Simple Kernel](https://img.shields.io/static/v1?label=Repo&message=Simple%20Kernel&color=FF4A40)](https://github.com/Retr0-code/Simple-Kernel)
 - [![Phoenix backdoor](https://img.shields.io/static/v1?label=Repo&message=Phoenix&color=ff0057)](https://github.com/Retr0-code/Phoenix)
-- [![Console GUI Lib](https://img.shields.io/static/v1?label=Repo&message=Console_GUI_Lib&color=7163e0)](https://github.com/Retr0-code/Console-Graphics)
+- [![Console GUI Lib](https://img.shields.io/static/v1?label=Repo&message=Console%20GUI%20Lib&color=7163e0)](https://github.com/Retr0-code/Console-Graphics)
 - [![CVE-2017-11881](https://img.shields.io/static/v1?label=Repo&message=SignHere&color=607CF7)](https://github.com/Retr0-code/SignHere)
 - [![Face-Recognition](https://img.shields.io/static/v1?label=Repo&message=Face_Recognition&color=60aaf7)](https://github.com/Retr0-code/Face-Recognition)
 
