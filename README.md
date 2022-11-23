@@ -38,7 +38,25 @@ Also I can do:
 
 ## What am I working on
 
-Right now I am working on my project - Binary Analysis Tool (BAT) This project is designed to facilitate vulnerability detection and debugging in Windows applications. The current state of the project is in development. I hope it would help not just me, so please if you are interested in you can email me and I will demonstrate some how current build. After this project will be done supporting of it will continue as long as possible. Next project will be GUI application to work with cisco appliances.
+Right now I am working on my project - VulnHunter. The project purpose is searching for vulnerabilities in executable linux files. Main advantage of project is web platform. You can use it on every device. *For API I used Python 3 Flask; For Web Server Apache2.4; For backend app was used GNU C++2a and Docker image based on Ubuntu 20.04;*
+
+**Currently done:**
+ * C++ backend application
+ * Docker image
+ * Server setup
+
+**Work in progress:**
+  * Web API
+    * OAuth2.0
+    * Uploading method
+    * Reporting
+  * MySQL DB
+  * Frontend
+
+**Future plans:**
+  * Add Windows apps support
+  * Subscription plans
+
 
 ### My contacts
 
