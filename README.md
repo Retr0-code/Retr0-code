@@ -46,12 +46,13 @@ Right now I am working on my project - VulnHunter. The project purpose is search
   * Server setup
   * Token Authentification
   * MySQL DB
-
-**Work in progress:**
   * Web API
     * Uploading method
     * Reporting
   * Frontend
+
+**Work in progress:**
+  * Dynamic Scanning
 
 **Future plans:**
   * Add Windows apps support
