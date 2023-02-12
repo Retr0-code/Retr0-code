@@ -62,4 +62,4 @@ Right now I am working on my project - VulnHunter. The project purpose is search
 
 ### My contacts
 
-e-mail: helpplskillme@protonmail.com
+e-mail: offer.nik.kor@gmail.com
