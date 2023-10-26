@@ -14,12 +14,13 @@ I am a cyber security student and this profile is my portfolio. I hope you can f
 ![python](https://img.shields.io/badge/-Python-FFC500?logo=python)
 ![cpp](https://img.shields.io/badge/-C++-6088FF?logo=c%2b%2b)
 ![c](https://img.shields.io/badge/-C-60aaf7?logo=c)
-![java](https://img.shields.io/badge/-Java-FF8501?logo=java&logoColor=000000)
+![java](https://img.shields.io/badge/-Java-FF8501?logo=openjdk&logoColor=000000)
 ![asm](https://img.shields.io/badge/-ASM-FF0F1F)
 
 ![sql](https://img.shields.io/badge/-SQL-ffffff?logo=MySQL)
+![docker](https://img.shields.io/badge/-Docker-444444?logo=Docker)
+![cisco](https://img.shields.io/badge/-Cisco-101010?logo=cisco)
 ![linux](https://img.shields.io/badge/-Linux-000000?logo=linux)
-![cisco](https://img.shields.io/badge/-Cisco-ffffff?logo=cisco)
 
 ![html](https://img.shields.io/badge/-HTML5-000000?logo=html5)
 ![css](https://img.shields.io/badge/-CSS3-000000?logo=css3)
