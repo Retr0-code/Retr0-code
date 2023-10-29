@@ -3,9 +3,9 @@
 I am a cyber security student and this profile is my portfolio. I hope you can find something interesting here, you better to check out these repositories.
 
 - [![Simple Kernel](https://img.shields.io/static/v1?label=Repo&message=Simple%20Kernel&color=FF4A40)](https://github.com/Retr0-code/Simple-Kernel)
-- [![Matrix Sequncer](https://img.shields.io/static/v1?label=Repo&message=Matrix%20Sequncer&color=ff0057)](https://github.com/Retr0-code/Matrix-Sequncer)
-- [![C++ Thread Cluster Library](https://img.shields.io/static/v1?label=Repo&message=C%2B%2B%20Thread%20Cluster%20Library&color=7163e0)](https://github.com/Retr0-code/Thread-Cluster-Library)
-- [![CVE-2017-11881](https://img.shields.io/static/v1?label=Repo&message=SignHere&color=607CF7)](https://github.com/Retr0-code/SignHere)
+- [![NTLM hash dumper](https://img.shields.io/static/v1?label=Repo&message=Hash-Dumper&color=ff0057)](https://github.com/Retr0-code/hash-dumper)
+- [![Matrix Sequncer](https://img.shields.io/static/v1?label=Repo&message=Matrix%20Sequncer&color=7163e0)](https://github.com/Retr0-code/Matrix-Sequncer)
+- [![C++ Thread Cluster Library](https://img.shields.io/static/v1?label=Repo&message=C%2B%2B%20Thread%20Cluster%20Library&color=607CF7)](https://github.com/Retr0-code/Thread-Cluster-Library)
 - [![Path Traversal](https://img.shields.io/static/v1?label=Repo&message=Path%20Trav%20Vulnerability%20in%20IP%20Cameras&color=60aaf7)](https://github.com/Retr0-code/auth-traversal)
 
 ## Here is list of my skills
