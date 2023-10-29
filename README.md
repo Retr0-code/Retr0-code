@@ -36,7 +36,7 @@ Also I can do:
   - Web audits
 
 ---
-
+<!--
 ## What am I working on
 
 Right now I am working on my project - VulnHunter. The project purpose is searching for vulnerabilities in executable linux files. Main advantage of project is web platform. You can use it on every device. *For API I used Python 3 Flask; For Web Server Apache2.4; For backend app was used GNU C++2a and Docker image based on Ubuntu 20.04;*
@@ -59,7 +59,7 @@ Right now I am working on my project - VulnHunter. The project purpose is search
   * Add Windows apps support
   * Subscription plans
   * Integrate Yandex direct ads API
-
+-->
 
 ### My contacts
 
