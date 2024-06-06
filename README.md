@@ -4,8 +4,8 @@ I am a cyber security student and this profile is my portfolio. I hope you can f
 
 - [![NTLM hash dumper](https://img.shields.io/static/v1?label=Repo&message=Hash-Dumper&color=FF4A40)](https://github.com/Retr0-code/hash-dumper)
 - [![Simple Kernel](https://img.shields.io/static/v1?label=Repo&message=Simple%20Kernel&color=FF0057)](https://github.com/Retr0-code/Simple-Kernel)
-- [![Matrix Sequncer](https://img.shields.io/static/v1?label=Repo&message=Matrix%20Sequncer&color=7163E0)](https://github.com/Retr0-code/Matrix-Sequncer)
-- [![C++ Thread Cluster Library](https://img.shields.io/static/v1?label=Repo&message=C%2B%2B%20Thread%20Cluster%20Library&color=607CF7)](https://github.com/Retr0-code/Thread-Cluster-Library)
+- [![Pong-RL](https://img.shields.io/static/v1?label=Repo&message=Pong-RL&color=7163E0)](https://github.com/Retr0-code/Pong-RL)
+- [![Matrix Sequncer](https://img.shields.io/static/v1?label=Repo&message=Matrix%20Sequncer&color=607CF7)](https://github.com/Retr0-code/Matrix-Sequncer)
 - [![Path Traversal](https://img.shields.io/static/v1?label=Repo&message=Path%20Trav%20Vulnerability%20in%20IP%20Cameras&color=60AAf7)](https://github.com/Retr0-code/auth-traversal)
 
 ## Here is list of my skills
@@ -25,7 +25,6 @@ I am a cyber security student and this profile is my portfolio. I hope you can f
 ![html](https://img.shields.io/badge/-HTML5-000000?logo=html5)
 ![css](https://img.shields.io/badge/-CSS3-000000?logo=css3)
 ![javascript](https://img.shields.io/badge/-JS-000000?logo=javascript)
-![php](https://img.shields.io/badge/-PHP-000000?logo=php)
 
 <br>
 
