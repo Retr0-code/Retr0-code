@@ -1,5 +1,3 @@
-# Hey !
-
 I am a cyber security student and this profile is my portfolio. I hope you can find something interesting here, you better to check out these repositories.
 
 - [![NTLM hash dumper](https://img.shields.io/static/v1?label=Repo&message=Hash-Dumper&color=FF4A40)](https://github.com/Retr0-code/hash-dumper)
@@ -8,7 +6,7 @@ I am a cyber security student and this profile is my portfolio. I hope you can f
 - [![Matrix Sequncer](https://img.shields.io/static/v1?label=Repo&message=Matrix%20Sequncer&color=607CF7)](https://github.com/Retr0-code/Matrix-Sequncer)
 - [![Path Traversal](https://img.shields.io/static/v1?label=Repo&message=Path%20Trav%20Vulnerability%20in%20IP%20Cameras&color=60AAf7)](https://github.com/Retr0-code/auth-traversal)
 
-## Here is list of my skills
+## Here is short list of my skills
 ---
 
 ![python](https://img.shields.io/badge/-Python-FFC500?logo=python)
@@ -35,30 +33,6 @@ Also I can do:
   - Web audits
 
 ---
-<!--
-## What am I working on
-
-Right now I am working on my project - VulnHunter. The project purpose is searching for vulnerabilities in executable linux files. Main advantage of project is web platform. You can use it on every device. *For API I used Python 3 Flask; For Web Server Apache2.4; For backend app was used GNU C++2a and Docker image based on Ubuntu 20.04;*
-
-**Currently done:**
-  * C++ backend application
-  * Docker image
-  * Server setup
-  * Token Authentification
-  * MySQL DB
-  * Web API
-    * Uploading method
-    * Reporting
-  * Frontend
-
-**Work in progress:**
-  * Dynamic Scanning
-
-**Future plans:**
-  * Add Windows apps support
-  * Subscription plans
-  * Integrate Yandex direct ads API
--->
 
 ### My contacts
 
