@@ -1,3 +1,5 @@
+# About me
+
 I am a cyber security student and this profile is my portfolio. I hope you can find something interesting here, you better to check out these repositories.
 
 - [![NTLM hash dumper](https://img.shields.io/static/v1?label=Repo&message=Hash-Dumper&color=FF4A40)](https://github.com/Retr0-code/hash-dumper)
@@ -33,6 +35,20 @@ Also I can do:
   - Web audits
 
 ---
+
+### Currently I am working on...
+
+A Garry's Mod gamemode, where players must build any vehicle they want using props, entities and tools provided within the gamemode.
+
+**What is done?**
+
+- [x] Game states;
+- [x] Entity protection/ownership management;
+- [x] Sandbox mechanics integration;
+- [x] White-listing NPCs, props, weapons, entities, vehicles and tools;
+- [ ] HUD and GUI (partialy done);
+- [ ] Maps and player/team spawn-mechanics;
+- [ ] Tools for simpler vehicle building;
 
 ### My contacts
 
