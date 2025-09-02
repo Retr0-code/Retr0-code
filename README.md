@@ -34,6 +34,8 @@ Also I can do:
   - Net audits
   - Web audits
 
+![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/Rettr0.png)
+
 ---
 
 ### Currently I am working on...
